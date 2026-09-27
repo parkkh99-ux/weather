@@ -1,0 +1,8 @@
+{
+  "name": "SkyCast Weather",
+  "description": "실시간 기상 API 및 AI 기반 생활 기상 브리핑을 제공하는 프리미엄 날씨 서비스",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
